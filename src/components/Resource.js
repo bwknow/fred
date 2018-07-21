@@ -9,7 +9,7 @@ export const resource = {
   TERMS_OF_USE: "https://www.starbucks.com/about-us/company-information/online-policies/terms-of-use",
   FACE_ATTRIBUTES: 'age,gender,headPose,smile,facialHair,glasses,emotion,hair,makeup,occlusion,accessories,blur,exposure,noise',
   
-  VISION_KEY: '164d10a6d243412296568935a1267697',
-  FACE_KEY: 'd56a9317ba8a48d2964dbe40d9b65e2e',
+  VISION_KEY: '',
+  FACE_KEY: '',
   URI_BASE: 'https://westcentralus.api.cognitive.microsoft.com/'
 }
