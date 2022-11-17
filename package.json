@@ -27,7 +27,7 @@
     "react-webcam": "^0.4.3"
   },
   "devDependencies": {
-    "react-scripts": "1.0.10"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
